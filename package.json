@@ -1,0 +1,28 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@napi-rs/canvas-win32-x64-msvc": "^0.1.65",
+    "axios": "^1.7.9",
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5",
+    "jimp": "^1.6.0",
+    "kazagumo": "^3.2.1",
+    "kazagumo-filter": "^2.0.0",
+    "llyrics": "^1.1.7",
+    "lyrics-finder": "^21.7.0",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.6.3",
+    "musicard": "^2.0.5",
+    "npm": "^11.0.0",
+    "songlyrics": "^2.4.8",
+    "vibesync": "^1.0.6"
+  }
+}
